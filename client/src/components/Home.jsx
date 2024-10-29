@@ -21,7 +21,13 @@ function Home() {
                <li className='bg-amber-300 px-4 rounded-md'>subscribed</li>
           </ul>
      </div>
-
+           
+           <ul className='flex grid-rows-none space-x-6'>
+               <li>vedio1</li>
+               <li>vedio2</li>
+               <li>vedio3</li>
+               <li>vedio4</li>
+           </ul>
 
 
 
